@@ -21,7 +21,8 @@ Parallel implementation of a genetic algorithm to solve the Traveling Salesman P
 
 ### Fractals in Julia
 A visual and interactive exploration of fractals.
-- [x] Mandelbrot set (core plotting structure)
+- [x] Lorenz Attractor (parameter space exploration)
+- [ ] Mandelbrot set (core plotting structure)
 - [ ] Interactive controls (pan, zoom)
 - [ ] Controlled zoom animations
 - [ ] Julia sets and beyond
